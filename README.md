@@ -1,4 +1,9 @@
-### Hi there 👋
+## Marcin Sidoruk
+
+I am aspiring Data Scientist.
+
+
+##### Hi there 👋
 
 <!--
 **MarcinSidoruk/MarcinSidoruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
