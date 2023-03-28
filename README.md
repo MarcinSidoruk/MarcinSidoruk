@@ -1,9 +1,9 @@
 ## Marcin Sidoruk
 
-I am aspiring Data Scientist.
+Apspiruje do zostania Data Science.
 
+Ostatnie dwa lata pracy z danymi przestrzennymi wzbudziły moje zainteresownie tematem przetwarzania oraz analizy danych. Skłoniło mnie to do rozwijania się w tym zakresie poprzez różnego rodzaju kursy. W ostatnim czasie przystąpiłem do bootcampu Junior Data Science aby pogłębić swoją wiedzę i lepiej rozumieć jak pracować z danymi. Planuję dalszy rozwój zawodowy w dziedzinie Data Science.
 
-##### Hi there 👋
 
 <!--
 **MarcinSidoruk/MarcinSidoruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
