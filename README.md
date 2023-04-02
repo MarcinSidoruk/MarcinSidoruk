@@ -1,8 +1,15 @@
 ## Marcin Sidoruk
 
-Apspiruje do zostania Data Science.
+### Hi there 👋
 
-Ostatnie dwa lata pracy z danymi przestrzennymi wzbudziły moje zainteresownie tematem przetwarzania oraz analizy danych. Skłoniło mnie to do rozwijania się w tym zakresie poprzez różnego rodzaju kursy. W ostatnim czasie przystąpiłem do bootcampu Junior Data Science aby pogłębić swoją wiedzę i lepiej rozumieć jak pracować z danymi. Planuję dalszy rozwój zawodowy w dziedzinie Data Science.
+#### I am aspiring Data Scientist. 
+
+During last two years I was working with spatial data. In that time I awake my interest to working with data. So I decided to develop my skills in processing and analysis data.  Since that thought I participate in several courses and join weekend bootcamp Junior Data Science to increase my understanding of data and how to work with it. I'm planning further career development in filed Data Science.
+
+
+
+- 🌱 I’m currently learning at InfoShare Acadamy during bootcamp Data Scientist.
+    - As a group we work with our projects in repository pined.
 
 
 <!--
